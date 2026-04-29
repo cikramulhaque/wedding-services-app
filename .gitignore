@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# PHP / Composer
+vendor/
+
+# Environment files
+.env
+
+# XAMPP default files (IMPORTANT)
+dashboard/
+xampp/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
